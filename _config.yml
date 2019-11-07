@@ -52,16 +52,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username:  eollugii
+#facebook_username: johndoe
+#linkedin_username: johndoe
+#behance_username: johndoe
+#instagram_username: johndoe
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments using disqus
 disqus_shortname: sujay-kundu  
@@ -70,7 +70,7 @@ disqus_shortname: sujay-kundu
 wakatime_username: sujaykundu777
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: eollugii@gmail.com
 
 # syntax highlighter
 markdown: kramdown
