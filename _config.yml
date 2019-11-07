@@ -9,14 +9,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Blog
       url: /blog
-    - text: Shop
-      url : /shop/
+#    - text: Shop
+#      url : /shop/
     - text: About Me
       url: /about/
     - text: Contact Me
       url : /contact/
-    - text: Styleguide
-      url: /styleguide/
+#    - text: Styleguide
+#      url: /styleguide/
     
 
 # Edit these details 
@@ -67,7 +67,7 @@ github_username:  eollugii
 disqus_shortname: sujay-kundu  
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: eoullugii
 
 # formspree (contact form)
 formspree_email: eollugii@gmail.com
