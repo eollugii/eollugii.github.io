@@ -28,7 +28,11 @@ author_email: "eollugii@gmail.com"
 author_location: Korea
 author_website_url: "http://eollugii.github.io"
 
-author_work_experiencesaaa: 
+author_work_coding:
+            - title : Do Coding
+              description : I like Coding
+
+author_work_experiences: 
             - company_name: Google
               company_logo: google.png
               company_url: https://google.com
@@ -84,6 +88,7 @@ google_analytics: UA-46783401-10
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
+author_work_coding: true
 
 # dont touch this unless required
 plugins:
