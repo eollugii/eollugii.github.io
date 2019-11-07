@@ -29,32 +29,25 @@ author_location: Korea
 author_website_url: "http://eollugii.github.io"
 
 author_work_experiences: 
-            - company_name: Google
+            - company_name: 없음
               company_logo: google.png
               company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              designation: 프로 백수
+              description: 나 회사 안다녀!
               visibility: true
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
-
-author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                college_name: 국비 교육원
+                college_url: https://www.google.com
+                college_degree: 자바 웹 개발자 과정
+                description: Java
                 visibility: true
 
 author_post_details:
-              - post_title: How do?
-                post_info: What..
-                post_description: i wanna developer!
+              - post_title: 코딩 풀이
+                post_info: 타 사이트에 있는 코딩 문제 풀이
+                post_description: 잘 못해요...
                 post_url: https://www.google.com
                 visibility: true
 
