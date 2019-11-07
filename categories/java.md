@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Java
-permalink: /blog/categories/java
+permalink: /blog/categories/Java
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
