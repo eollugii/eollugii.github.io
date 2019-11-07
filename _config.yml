@@ -28,10 +28,6 @@ author_email: "eollugii@gmail.com"
 author_location: Korea
 author_website_url: "http://eollugii.github.io"
 
-author_work_coding:
-            - title : Do Coding
-              description : I like Coding
-
 author_work_experiences: 
             - company_name: Google
               company_logo: google.png
@@ -53,6 +49,13 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
+                visibility: true
+
+author_post_details:
+              - post_logo: mit.png
+                post_name: MIT
+                post_url: https://mit.org
+                description: Bachelor of Technology
                 visibility: true
 
 # social links
@@ -88,7 +91,7 @@ google_analytics: UA-46783401-10
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
-author_work_coding: true
+show_author_post_details: true
 
 # dont touch this unless required
 plugins:
