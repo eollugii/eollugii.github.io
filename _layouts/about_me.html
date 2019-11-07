@@ -12,6 +12,28 @@ layout: default
             </div>
             {% endif %}
 
+            {% if site.show_author_post_details == true %}
+            <div class="card">
+                <h1 class="card-title">Post</h1>
+                <br />
+                {% for post in site.author_post_details %}
+                {% if post.visibility == true %}
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="/assets/img/{{post.project_thumbnail}}" class="company-logo" />
+                    </div>
+                    <div class="col-md-6">
+                        <h4 class="post-title"> {{ post.post_title }}</h4>
+                        <h6 class="post-info"> {{ post.post_info }}</h6>
+                        <p class="post-desc"> {{ post.post_description }} </p>
+                        <p><a href="{{post.post_url}}">{{ post.post_url}}</a></p>
+                    </div>
+                </div>
+                {% endif %}
+
+                {% endfor %}
+            </div>
+            {% endif %}
 
             {% if site.show_author_project_details == true %}
             <div class="card">

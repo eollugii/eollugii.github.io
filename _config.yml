@@ -52,10 +52,10 @@ author_project_details:
                 visibility: true
 
 author_post_details:
-              - post_logo: mit.png
-                post_name: MIT
-                post_url: https://mit.org
-                description: Bachelor of Technology
+              - post_title: How do?
+                post_info: What..
+                post_description: i wanna developer!
+                post_url: https://www.google.com
                 visibility: true
 
 # social links
