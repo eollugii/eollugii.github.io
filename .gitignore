@@ -4,3 +4,7 @@
 _site
 Gemfile.lock
 devlopr.gemspec
+.idea/workspace.xml
+.idea/eollugii.github.io.iml
+.idea/modules.xml
+.idea/vcs.xml
