@@ -21,7 +21,7 @@ urls:
 
 # Edit these details 
 
-author_logo: thumbnail/photo/eollugii.jpg
+author_logo: posts/thumbnail/photo/eollugii.png
 author: Eollugii
 author_bio: I wanna Developer
 author_email: "eollugii@gmail.com"
@@ -49,7 +49,7 @@ author_post_details:
                 post_info: 타 사이트에 있는 코딩 문제 풀이
                 post_description: 잘 못해요...
                 post_url: https://eollugii.github.io/blog
-                post.project_thumbnail: thumbnail/photo/coding.png
+                project_thumbnail: posts/thumbnail/photo/coding.jpg
                 visibility: true
 
 # social links
