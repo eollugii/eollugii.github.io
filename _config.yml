@@ -46,19 +46,11 @@ author_education_details:
                 description: Java
                 visibility: true
 
-author_post_details:
-              - post_title: 문제 풀어보기
-                post_info: 알고리즘 문제풀이
-                post_description: 물제풀기!
-                post_url: https://eollugii.github.io/blog
-                project_thumbnail: posts/thumbnail/photo/coding.jpg
-                visibility: true
-
 author_project_details:
               - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                project_title: Side Project
+                project_description: doing~!
+                project_url: https://eollugii.github.io/project
                 visibility: true
 
 # social links
