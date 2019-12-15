@@ -87,7 +87,7 @@ google_analytics: UA-46783401-10
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
-show_author_post_details: true
+#show_author_post_details: true
 
 # dont touch this unless required
 plugins:
