@@ -31,11 +31,11 @@ author_location: Korea
 author_website_url: "http://eollugii.github.io"
 
 author_work_experiences: 
-            - company_name: 없음
+            - company_name: not yet
               company_logo: google.png
               company_url: https://google.com
-              designation: 프로 백수
-              description: 나 회사 안다녀!
+              designation: be Developer
+              description: i wanna developer
               visibility: true
 
 author_education_details:
