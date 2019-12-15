@@ -45,9 +45,9 @@ author_education_details:
                 visibility: true
 
 author_post_details:
-              - post_title: 코딩 풀이
-                post_info: 타 사이트에 있는 코딩 문제 풀이
-                post_description: 잘 못해요...
+              - post_title: 문제 풀어보기
+                post_info: 알고리즘 문제풀이
+                post_description: 물제풀기!
                 post_url: https://eollugii.github.io/blog
                 project_thumbnail: posts/thumbnail/photo/coding.jpg
                 visibility: true
