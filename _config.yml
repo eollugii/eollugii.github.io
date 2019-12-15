@@ -39,11 +39,11 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: 국비 교육원
+              - college_logo: profile.png
+                college_name: a provincial university
                 college_url: https://www.google.com
-                college_degree: 자바 웹 개발자 과정
-                description: Java
+                college_degree: CDI department
+                description: statistics
                 visibility: true
 
 author_project_details:
@@ -51,6 +51,7 @@ author_project_details:
                 project_title: Side Project
                 project_description: doing~!
                 project_url: https://eollugii.github.io/project
+                project_name : doing project
                 visibility: true
 
 # social links
