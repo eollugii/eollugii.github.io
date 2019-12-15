@@ -17,7 +17,9 @@ urls:
       url : /contact/
 #    - text: Styleguide
 #      url: /styleguide/
-    
+    - text: Project
+        url: /project/
+
 
 # Edit these details 
 
@@ -50,6 +52,13 @@ author_post_details:
                 post_description: 물제풀기!
                 post_url: https://eollugii.github.io/blog
                 project_thumbnail: posts/thumbnail/photo/coding.jpg
+                visibility: true
+
+author_project_details:
+              - project_thumbnail: gamershub.png
+                project_title: Gamers Hub
+                project_description: A Platform built for Gamers and Game Devs
+                project_url: https://gamershub.in
                 visibility: true
 
 # social links
